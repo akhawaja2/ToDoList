@@ -1,0 +1,11 @@
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\bin\Debug\ToDoListASC.exe.config
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\bin\Debug\ToDoListASC.exe
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\bin\Debug\ToDoListASC.pdb
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\obj\Debug\ToDoListASC.csprojResolveAssemblyReference.cache
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\obj\Debug\ToDoListASC.Main.resources
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\obj\Debug\ToDoListASC.Properties.Resources.resources
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\obj\Debug\ToDoListASC.csproj.GenerateResource.cache
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\obj\Debug\ToDoListASC.csproj.CoreCompileInputs.cache
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\obj\Debug\ToDoListASC.exe
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\obj\Debug\ToDoListASC.pdb
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\obj\Debug\ToDoListASC.EditForm.resources

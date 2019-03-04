@@ -1,0 +1,11 @@
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\bin\Release\ToDoListASC.exe.config
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\bin\Release\ToDoListASC.exe
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\bin\Release\ToDoListASC.pdb
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\obj\Release\ToDoListASC.csprojResolveAssemblyReference.cache
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\obj\Release\ToDoListASC.EditForm.resources
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\obj\Release\ToDoListASC.Main.resources
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\obj\Release\ToDoListASC.Properties.Resources.resources
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\obj\Release\ToDoListASC.csproj.GenerateResource.cache
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\obj\Release\ToDoListASC.csproj.CoreCompileInputs.cache
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\obj\Release\ToDoListASC.exe
+C:\Users\Abu\source\repos\ToDoListASC\ToDoListASC\obj\Release\ToDoListASC.pdb
